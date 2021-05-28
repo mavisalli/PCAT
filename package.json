@@ -1,0 +1,23 @@
+{
+  "name": "PCAT",
+  "version": "1.0.0",
+  "description": "\"# PCAT\"",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mavisalli/PCAT.git"
+  },
+  "keywords": [],
+  "author": "Mavi Barış Şallı",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mavisalli/PCAT/issues"
+  },
+  "homepage": "https://github.com/mavisalli/PCAT#readme",
+  "devDependencies": {
+    "prettier": "2.3.0"
+  }
+}
