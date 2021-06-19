@@ -11,6 +11,6 @@
 - Database: MongoDB for NoSQL Database
 - Frameworks: Express, Mongoose
 
-#### The project is on heroku: [Live App:](https://pcat-application1.herokuapp.com/)
+#### The project is on heroku: [Live App](https://pcat-application1.herokuapp.com/)
 
 #### HTML Template: (https://templatemo.com/tm-552-video-catalog)
