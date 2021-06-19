@@ -6,7 +6,7 @@
 
 ### Technologies and Frameworks I use
 
-- Backend: NodeJs
+- !(check-solid.svg)Backend: NodeJs
 - Frontend: Html template and ejs for template engine
 - Database: MongoDB for NoSQL Database
 - Frameworks: Express, Mongoose
