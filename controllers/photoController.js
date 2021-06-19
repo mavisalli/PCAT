@@ -46,11 +46,12 @@ exports.createPhoto = async (req, res) => {
 
 exports.updatePhoto = async (req, res) => {
   const photo = await Photo.findOne({ _id: req.params.id });
+  
   photo.title = req.body.title;
   photo.description = req.body.description;
   photo.save();
 
-  res.redirect(`/photos/${req.params.id}`);
+  res.redirect(`/`);
 };
 
 exports.deletePhoto = async (req, res) => {
