@@ -4,7 +4,7 @@
 
 ### You can use the add, update and delete features in the application.
 
-### Technologies and Frameworks I use
+### Technologies and Frameworks I use:
 
 - !(check-solid.svg)Backend: NodeJs
 - Frontend: Html template and ejs for template engine
