@@ -3,16 +3,16 @@
 
 ## This is a project in patika.dev Nodejs course
 
-### You can use the add, update and delete features in the application.
+### :white_heavy_check_mark: You can use the add, update and delete features in the application.
 
 ### Technologies and Frameworks I use
 
 
  :ballot_box_with_check: Backend: NodeJs
-- Frontend: Html template and ejs for template engine
-- Database: MongoDB for NoSQL Database
-- Frameworks: Express, Mongoose
+ :ballot_box_with_check: Frontend: Html template and ejs for template engine
+ :ballot_box_with_check: Database: MongoDB for NoSQL Database
+ :ballot_box_with_check: Frameworks: Express, Mongoose
 
-#### The project is on heroku: [Live App](https://pcat-application1.herokuapp.com/)
+#### :rocket: The project is on heroku: [Live App](https://pcat-application1.herokuapp.com/)
 
 #### HTML Template: (https://templatemo.com/tm-552-video-catalog)
