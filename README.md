@@ -5,7 +5,7 @@
 
 ### :white_check_mark: You can use the add, update and delete features in the application.
 
-### Technologies and Frameworks I use
+### Technologies and Frameworks I use:
 
 
  :ballot_box_with_check: Backend: NodeJs
