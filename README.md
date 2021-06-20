@@ -1,3 +1,4 @@
+
 # PCAT Project
 
 ## This is a project in patika.dev Nodejs course
@@ -6,7 +7,8 @@
 
 ### Technologies and Frameworks I use
 
-- !(check-solid.svg)Backend: NodeJs
+
+ :ballot_box_with_check: Backend: NodeJs
 - Frontend: Html template and ejs for template engine
 - Database: MongoDB for NoSQL Database
 - Frameworks: Express, Mongoose
